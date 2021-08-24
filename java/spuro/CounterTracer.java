@@ -41,9 +41,7 @@ package spuro;
 import java.io.IOException;
 
 /**
- * <p>Title: CounterTracer</p>
- *
- * <p>Description: A Tracer that counts the number of times the add method was called.
+ * <p>A Tracer that counts the number of times the add method was called.</p>
  *
  */
 public class CounterTracer implements Tracer{

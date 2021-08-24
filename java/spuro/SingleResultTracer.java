@@ -40,8 +40,7 @@ package spuro;
 
 /**
  *
- * <p>Title: SingleResultTracer </p>
- * <p>Description: A Tracer that is able to keep track of a single object.</p>
+ * <p>A Tracer that is able to keep track of a single object.</p>
  */
 public class SingleResultTracer implements Tracer{
 	/**

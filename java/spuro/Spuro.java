@@ -41,8 +41,7 @@ package spuro;
 import java.util.HashMap;
 
 /**
- * <p>Title: Spuro (Trace in Esperanto) </p>
- * <p>Tracing methods.</p>
+ * <p>Spuro (Trace in Esperanto). Tracing methods.</p>
  */
 public class Spuro {
     protected static HashMap<Object, HashMap<Tracer,Tracer>> map =

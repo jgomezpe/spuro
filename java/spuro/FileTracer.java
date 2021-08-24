@@ -43,8 +43,7 @@ import java.io.IOException;
 
 /**
  *
- * <p>Title: FileTracer</p>
- * <p>Description: A Tracer based on files (stores information of traced objects in a given file).</p>
+ * <p>A Tracer based on files (stores information of traced objects in a given file).</p>
  */
 public class FileTracer extends OutputStreamTracer{
 	/**

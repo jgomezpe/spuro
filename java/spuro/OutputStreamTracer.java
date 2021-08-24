@@ -42,8 +42,7 @@ import lifya.stringify.Stringifier;
 
 /**
  *
- * <p>Title: OutputStreamTracer</p>
- * <p>Description: A Tracer based on OuptputStream (stores traced object information in the provided OutputStream).</p>
+ * <p>A Tracer based on OuptputStream (stores traced object information in the provided OutputStream).</p>
  */
 public abstract class OutputStreamTracer implements Tracer {	
 	/**

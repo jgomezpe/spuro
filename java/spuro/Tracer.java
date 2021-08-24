@@ -41,9 +41,7 @@ package spuro;
 import java.io.IOException;
 
 /**
- * <p>Title: Tracer</p>
- *
- * <p>Description: Abstract definition of an object's Tracer (stores useful information of objects).
+ * <p>Abstract definition of an object's Tracer (stores useful information of objects).</p>
  *
  */
 public interface Tracer{

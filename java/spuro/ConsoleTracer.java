@@ -39,9 +39,7 @@
 package spuro;
 
 /**
- * <p>Title: ConsoleTracer</p>
- *
- * <p>Description: A Tracer based on the java console (print objects to the console).
+ * <p>A Tracer based on the java console (print objects to the console).</p>
  *
  */
 public class ConsoleTracer extends OutputStreamTracer {
