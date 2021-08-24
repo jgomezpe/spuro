@@ -42,7 +42,7 @@ import java.io.IOException;
 import speco.array.Array;
 
 /**
- * <p>An Array is used for storing traced information (Objects).</p>
+ * <p>A tracer that stores traced information in an Array.</p>
  *
  */
 public class ArrayTracer implements Tracer {
